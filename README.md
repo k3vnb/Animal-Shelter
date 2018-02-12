@@ -5,6 +5,9 @@
 ### Animal Shelter:
 'Adopt a criminal animal': These animals have paid their debt to society, now they are in need of homes. Page displays cards with animal info for mock animal adoption site.
 
+### Screenshot:
+![Screenshot](img/screenshot.png?raw=true)
+
 ## Support and contact details
 
 _Please contact Kevin Boyle at papershack@gmail.com with any questions_
